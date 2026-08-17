@@ -1,1 +1,1 @@
-# dotnet-api-starter
+![Build](https://github.com/alexfitzkane-02/dotnet-api-starter/actions/workflows/ci.yml/badge.svg)
